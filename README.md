@@ -33,7 +33,5 @@
     <a href="https://instagram.com/vini.bzk" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=forthebadge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-##
-
 ![Snake animation](https://github.com/Viniciusrab/Viniciusrab/blob/output/github-contribution-grid-snake.svg)
 
