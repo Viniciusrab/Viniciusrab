@@ -6,10 +6,10 @@
 <div align="center">
 <a href="https://github.com/Viniciusrab">
 <a href="https://github.com/Viniciusrab/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Viniciusrab&theme=dark" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=Viniciusrab&theme=dark" />
 </a>
 <a href="https://github.com/Viniciusrab/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Viniciusrab&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Viniciusrab&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 </div>
   
